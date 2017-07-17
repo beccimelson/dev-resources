@@ -2,7 +2,9 @@
 
 👋 Hi, I’m [@beccimelson](http://twitter.com/beccimelson)
 
-⭐️ These lists include many of the resources I have used throughout my coding journey. Suggestions, issues, and PRs are welcome 💖
+⭐️ These lists include many of the resources I have used throughout my coding journey. I still have a lot to update here, so be sure to check back!
+
+Suggestions, issues, and PRs are welcome 💖
 
 ---
 
