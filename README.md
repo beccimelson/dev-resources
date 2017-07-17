@@ -28,6 +28,7 @@
 * [Linux](#linux)
 * [Mockups](#mockups)
 * [Prototyping tools](#prototyping-tools)
+* [Python](#python)
 * [Remote work](#remote-work)
 * [Stock](#stock)
 * [Tutorials and courses](#tutorials-and-courses)
@@ -101,11 +102,19 @@
 
 
 
+## HTML/CSS
+
+
+
 ## Icons and emoji
 * [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
 * [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
 * [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
 * [SymbolSet](https://symbolset.com/) — [paid] — high-quality icon fonts categorized by topic and style
+
+
+
+## JavaScript
 
 
 
@@ -122,6 +131,10 @@
 - [Figma](https://glitch.com) — collaborative interface development tool
 - [Framer](https://framerjs.com) — prototyping tool built on framer.js for prototyping mobile and desktop apps
 - [InVision](https://www.invisionapp.com/) — collaborative click-through prototyping tool for web and mobile
+
+
+
+## Python
 
 
 
