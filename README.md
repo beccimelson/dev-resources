@@ -4,6 +4,8 @@
 
 ⭐️ These lists include many of the resources I have used throughout my coding journey. I still have a lot to update here, so be sure to check back!
 
+👑 Inspired by [@Skullface]'s [designresources.party](http://designresources.party)
+
 Suggestions, issues, and PRs are welcome 💖
 
 ---
@@ -15,6 +17,7 @@ Suggestions, issues, and PRs are welcome 💖
   * [Online courses](#online-courses)
   * [Requirements and standards](#requirements-and-standards)
 * [Analytics](#analytics)
+* [Beginner friendly](#beginner-friendly)
 * [Books and publications](#books-and-publications)
 * [Browser tools](#browser-tools)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
@@ -63,7 +66,7 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## Analytics
-
+- [Google Analytics](https://analytics.google.com) — the gold standard
 
 
 ## Books and publications
@@ -137,6 +140,10 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## Python
+- [Learn Python The Hard Way](https://learncodethehardway.org/python/) — [*update: paid] — free until the recent addition of Python 3. Still arguably one of the best beginner courses (worth the $30 price tag)
+- [Awesome Python](https://awesome-python.com/) — a curated list of awesome Python frameworks, libraries, software and resources.
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) — [free] — DataCamp's *Intro to Python* class, covering how to store and manipulate data as well as intros to cool data science tools to start your own analyses.
+- [Scrapy](https://scrapy.org/) — open source web crawling framework, written in Python
 
 
 
