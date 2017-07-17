@@ -18,6 +18,7 @@ Suggestions, issues, and PRs are welcome 💖
   * [Requirements and standards](#requirements-and-standards)
 * [Analytics](#analytics)
 * [Beginner friendly](#beginner-friendly)
+  * [Where to start](#where-to-start)
 * [Books and publications](#books-and-publications)
 * [Browser tools](#browser-tools)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
@@ -35,8 +36,8 @@ Suggestions, issues, and PRs are welcome 💖
 * [Prototyping tools](#prototyping-tools)
 * [Python](#python)
 * [Remote work](#remote-work)
+  * [Job boards](#job-boards)
 * [Stock](#stock)
-* [Tutorials and courses](#tutorials-and-courses)
 * [User testing](#user-testing)
 
 ---
@@ -67,6 +68,17 @@ Suggestions, issues, and PRs are welcome 💖
 
 ## Analytics
 - [Google Analytics](https://analytics.google.com) — the gold standard
+
+
+
+## Beginner friendly
+
+### Where to start
+- [Udacity](https://www.udacity.com) — [free and paid] explore your options and plan a (loose) curriculum considering job opportunities, salary, etc
+- [CodeAcademy](https://www.codecademy.com) — [free and paid] clear, concise, interactive lessons ranging from JavaScript, to Git, to the Watson API
+- [FreeCodeCamp](https://www.freecodecamp.org/) — [free] a open-source driven community that helps you learn to code through coding challenges and building projects
+
+
 
 
 ## Books and publications
@@ -141,13 +153,17 @@ Suggestions, issues, and PRs are welcome 💖
 
 ## Python
 - [Learn Python The Hard Way](https://learncodethehardway.org/python/) — [*update: paid] — free until the recent addition of Python 3. Still arguably one of the best beginner courses (worth the $30 price tag)
+- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) — [free] — DataCamp's Intro to Python class, covering how to store and manipulate data as well as intros to cool data science tools to start your own analyses.
 - [Awesome Python](https://awesome-python.com/) — a curated list of awesome Python frameworks, libraries, software and resources.
-- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) — [free] — DataCamp's *Intro to Python* class, covering how to store and manipulate data as well as intros to cool data science tools to start your own analyses.
 - [Scrapy](https://scrapy.org/) — open source web crawling framework, written in Python
 
 
 
 ## Remote work
+
+### Job Boards
+- [WeWorkRemotely](https://www.udacity.com) — highest quality remote job board, in my opinion
+- [CodeAcademy](https://www.codecademy.com) — pulls jobs from top remote websites and ran by [@levelsio](https://twitter.com/levelsio)
 
 
 
@@ -158,10 +174,6 @@ Suggestions, issues, and PRs are welcome 💖
 * [CreativeMarket](https://creativemarket.com/) — huge marketplace for design assets of varying qualities (including fonts and stock photos), great for when you need to recreate a specific style or work in a particular niche
 * [RetroSupply](https://www.retrosupply.co/) — well-made and well-priced assets that skew toward retro/vintage
 * [YouWorkForThem](https://www.youworkforthem.com/graphics/) — cool textures and imagery from the original online creative marketplace
-
-
-
-## Tutorials and courses
 
 
 
