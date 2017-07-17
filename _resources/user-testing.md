@@ -1,5 +1,5 @@
 ---
-title: "User testing and interactive feedback tools"
+title: "User testing"
 layout: post
 ---
 

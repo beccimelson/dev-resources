@@ -1,5 +1,5 @@
 ---
-title: "Books and zines"
+title: "Books and publications"
 layout: post
 ---
 *Please note:* none of the following links are affiliate links.

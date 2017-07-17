@@ -1,5 +1,5 @@
 ---
-title: "Browser features"
+title: "Browser tools"
 layout: post
 ---
 

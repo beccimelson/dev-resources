@@ -1,8 +1,8 @@
 # [Development Resources](http://devresources.info)
 
-👋 Hi, I’m [@beccimelson](http://twitter.com/beccimelson)!
+👋 Hi, I’m [@beccimelson](http://twitter.com/beccimelson)
 
-⭐️ These lists and the contents within reflect _my_ opinions and resources used while learning to code. Suggestions, issues, and PRs are welcome 💖
+⭐️ These lists include mosy of the resources I've used throughout my coding journey. Suggestions, issues, and PRs are welcome 💖
 
 ---
 
@@ -12,6 +12,7 @@
   * [Guidelines](#guidelines)
   * [Online courses](#online-courses)
   * [Requirements and standards](#requirements-and-standards)
+* [Analytics](#analytics)
 * [Books and publications](#books-and-publications)
 * [Browser tools](#browser-tools)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
@@ -19,11 +20,17 @@
 * [Colors](#colors)
 * [Fonts](#fonts)
   * [Directories and marketplaces](#directories-and-marketplaces)
+* [Frameworks](#frameworks)
+* [Hosting](#hosting)
+* [HTML/CSS](#html-/-css)
 * [Icons and emoji](#icons-and-emoji)
-* [Inspiration and best practices](#inspiration-and-best=practices)
+* [JavaScript](#javascript)
+* [Linux](#linux)
 * [Mockups](#mockups)
 * [Prototyping tools](#prototyping-tools)
+* [Remote work](#remote-work)
 * [Stock](#stock)
+* [Tutorials and courses](#tutorials-and-courses)
 * [User testing](#user-testing)
 
 ---
@@ -51,7 +58,13 @@
 - [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
 
 
+
+## Analytics
+
+
+
 ## Books and publications
+
 
 
 ## Browser tools
@@ -74,6 +87,7 @@
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 
 
+
 ## Fonts
 #### Directories and marketplaces
 
@@ -83,15 +97,16 @@
 
 
 
+## Hosting
+
+
+
 ## Icons and emoji
 * [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
 * [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
 * [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
 * [SymbolSet](https://symbolset.com/) — [paid] — high-quality icon fonts categorized by topic and style
 
-
-
-## Inspiration and best practices
 
 
 ## Mockups
@@ -110,6 +125,10 @@
 
 
 
+## Remote work
+
+
+
 ## Stock
 * [Death to the Stock Photo](http://deathtothestockphoto.com/) — [free & paid] — new sets emailed weekly, premium plans available for more photos and unlimited access
 * [Unsplash](https://unsplash.com/) — [free] — the first of the hip and gorgeous free with no strings attached stock photo sites
@@ -117,6 +136,10 @@
 * [CreativeMarket](https://creativemarket.com/) — huge marketplace for design assets of varying qualities (including fonts and stock photos), great for when you need to recreate a specific style or work in a particular niche
 * [RetroSupply](https://www.retrosupply.co/) — well-made and well-priced assets that skew toward retro/vintage
 * [YouWorkForThem](https://www.youworkforthem.com/graphics/) — cool textures and imagery from the original online creative marketplace
+
+
+
+## Tutorials and courses
 
 
 
