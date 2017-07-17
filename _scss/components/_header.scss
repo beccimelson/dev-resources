@@ -1,0 +1,31 @@
+.site__header {
+  padding: 3rem;
+  padding-left: $column + 3rem;
+	@media ( min-width: 1000px ) {
+    margin-bottom: 3rem;
+    padding: 6rem 3rem 6rem;
+    padding-left: $column--large + 5rem;
+  }
+	@media ( max-width: 666px ) {
+    padding: 2rem;
+  }
+  font-family: $font-family__head;
+  background: #a1f0df;
+  color: #892eca;
+}
+
+  .site__title {
+    max-width: 44rem;
+  }
+
+.lede {
+  max-width: 44rem;
+  font-size: 125%;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.credit {
+  font-size: 65%;
+  margin: 0;
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="site__container">
+
+    <section class="site__info">
+      <nav class="site__nav">
+        <ul>
+          {% for resource in site.resources %}
+            <li><a href="/#{{ resource.slug }}">{{ resource.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </section>
+
+    <section>
+
+      <header class="site__header" id="📐">
+        <h1 class="site__title">{{ site.title }}</h1>
+        <p class="lede">{{ site.description }}</p>
+        <p class="credit">made by <a href="http://twitter.com/beccimelson">@beccimelson</a> &middot; inspired by ______ &middot; view/contribute on <a href="http://github.com/beccimelson/dev-resources">GitHub</a></p>
+      </header>
+
+      <main class="site__content">
+      {{ content }}
+      </main>
+    </section>
+
+    <div class="back-to-top">
+      <a href="#📐">&uarr;</a>
+    </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script>
+  // Select all links with hashes
+  $('a[href*="#"]')
+    // Remove inactive links
+    .not('[href="#"]')
+    .not('[href="#0"]')
+    .click(function(event) {
+      // On-page links
+      if (
+        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+        &&
+        location.hostname == this.hostname
+      ) {
+        // Figure out element to scroll to
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+        // Does a scroll target exist?
+        if (target.length) {
+          // Only prevent default if animation is actually gonna happen
+          event.preventDefault();
+          $('html, body').animate({
+            scrollTop: target.offset().top
+          }, 1000, function() {
+            // Callback after animation
+            // Must change focus!
+            var $target = $(target);
+            $target.focus();
+            if ($target.is(":focus")) { // Checking if the target was focused
+              return false;
+            } else {
+              $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            };
+          });
+        }
+      }
+    });
+  </script>
+
+  </body>
+</html>

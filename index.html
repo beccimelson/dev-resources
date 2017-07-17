@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for resource in site.resources %}
+<article class="post" id="{{ resource.slug }}">
+  <h1 class="post__title">{{ resource.title }} <a href="#{{ resource.slug }}" class="post__title__anchor"></a></h1>
+  <div class="post__content">
+    {{ resource.content }}
+  </div>
+</article>
+{% endfor %}

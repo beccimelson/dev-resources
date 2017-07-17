@@ -1,0 +1,89 @@
+/**
+ *
+ * @group Typography
+ *
+*/
+
+/// Settings
+/// -------------
+
+/// Weights + sizing
+$font-weight__normal:   400;
+$font-weight__bold:     700;
+$font-size__base:       112.5%;
+$leading:               1.6;
+
+/// Family stacks
+$font-family__body:     "harfang-pro", Georgia, serif;
+$font-family__head:     "ars-maquette-web", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+/// Styles
+/// -------------
+body {
+  font: $font-weight__normal $font-size__base $font-family__body;
+  line-height: $leading;
+  color: #242424;
+	@media ( min-width: 1000px ) {
+    font-size: $font-size__base + 25%;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1rem;
+  font-family: $font-family__head;
+  font-weight: $font-weight__bold;
+  line-height: 1;
+}
+
+a {
+  font-family: $font-family__head;
+  font-weight: $font-weight__bold;
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+em, i {
+  font-family: $font-family__body;
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: $font-weight__bold;
+}
+
+p + p,
+p + ul,
+ul + p,
+h2 + ul,
+h3 + ul {
+  margin-bottom: 2.5rem;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  font-size: 300%;
+	@media ( min-width: 1000px ) {
+    font-size: 400%;
+  }
+}
+
+.post a em {
+//  font-weight: $font-weight__normal;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 175%;
+}
+
+h3 {
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  font-size: 125%;
+}
+
+h2 + h3 {
+  margin-top: 1.5rem;
+}
