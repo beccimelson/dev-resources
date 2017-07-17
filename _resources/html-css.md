@@ -1,4 +1,4 @@
 ---
-title: "HTML/CSS"
+title: "Html/css"
 layout: post
 ---

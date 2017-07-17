@@ -1,4 +1,4 @@
 ---
-title: "JavaScript"
+title: "Javascript"
 layout: post
 ---

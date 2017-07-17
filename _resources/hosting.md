@@ -1,6 +1,4 @@
 ---
-title: "Hosting"
+title: "Hosting
 layout: post
 ---
-
-## Hosting
