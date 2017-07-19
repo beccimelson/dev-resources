@@ -19,10 +19,13 @@ Suggestions, issues, and PRs are welcome 💖
 * [Analytics](#analytics)
 * [Beginner friendly](#beginner-friendly)
   * [Where to start](#where-to-start)
+  * [Top developer communities](#top-developer-communities)
+  * [Useful beginner-friendly blogs](#useful-beginner-friendly-blogs)
 * [Books and publications](#books-and-publications)
 * [Browser tools](#browser-tools)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
   * [Google Chrome DevTools](#google-chrome-devtools)
+* [Coding challenges](#coding-challenges)
 * [Colors](#colors)
 * [Fonts](#fonts)
   * [Directories and marketplaces](#directories-and-marketplaces)
@@ -33,6 +36,7 @@ Suggestions, issues, and PRs are welcome 💖
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mockups](#mockups)
+* [Playgrounds](#playgrounds)
 * [Prototyping tools](#prototyping-tools)
 * [Python](#python)
 * [Remote work](#remote-work)
@@ -43,25 +47,25 @@ Suggestions, issues, and PRs are welcome 💖
 ---
 
 ## Accessibility resources
-### Checklist
+#### Checklist
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — WCAG 2.0 compliance checklist for developers, driven by priority
 
-### Guidelines
+#### Guidelines
 - [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
 - [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
 - [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
 
-### Online courses
+#### Online courses
 - [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
 - [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
 
-### Requirements and standards
+#### Requirements and standards
 - [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
 - [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
 - [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
 - [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act, enacted for the province to become “accessible for people with disabilities by 2025”
 
-### Further reading
+#### Further reading
 - [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
 
 
@@ -72,12 +76,20 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## Beginner friendly
-
-### Where to start
+#### Where to start
 - [Udacity](https://www.udacity.com) — [free and paid] explore your options and plan a (loose) curriculum considering job opportunities, salary, etc
 - [CodeAcademy](https://www.codecademy.com) — [free and paid] clear, concise, interactive lessons ranging from JavaScript, to Git, to the Watson API
-- [FreeCodeCamp](https://www.freecodecamp.org/) — [free] a open-source driven community that helps you learn to code through coding challenges and building projects
+- [FreeCodeCamp](https://www.freecodecamp.org/) — [free] an open-source driven community that helps you learn to code through coding challenges and building projects
 
+#### Top developer communities
+- [Stack Overflow](https://stackoverflow.com/) — a question and answer site for professional and enthusiast programmers, and part of the Stack Exchange network
+- [Hacker News](https://news.ycombinator.com/) — reddit-esq social news website focusing on computer science and entrepreneurship
+- [GitHub](https://github.com/blog/2386-contribute-on-open-source-friday) GitHub's latest effort to make it easier to contribute to the open source community
+- [Mozilla Developer Network](https://developer.mozilla.org) — anything you'd ever want to know about the Open Web, ever––Mozilla Docs come in very handy
+- [Product Hunt](https://www.producthunt.com/) — a curation of the best new products and a great way to gain traction when launching a new project
+
+#### Useful beginner-friendly blogs
+- [Tania Rascia](https://www.taniarascia.com/) — extremely concise and well-written tutorials and snippets
 
 
 
@@ -94,6 +106,12 @@ Suggestions, issues, and PRs are welcome 💖
 * [Animation timeline & editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) — powerful tools to inspect and modify CSS animations
 * [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) — test responsiveness by using popular viewport sizes or creating your own presets
 * [Network performance](https://developers.google.com/web/tools/chrome-devtools/network-performance/) — analyze resource requests and emulate mobile experiences
+
+
+
+## Coding challenges
+- [#100daysofcode](http://100daysofcode.com/) — code at minimum an hour every day for the next 100 days and tweet your progress using #100daysofcode
+- [#301daysofcode](http://benjaminspak.com/) - same concept, longer time frame, looser structure
 
 
 
@@ -132,13 +150,22 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## JavaScript
-
+- [Eloguent JavaScript](http://eloquentjavascript.net/) — highly recommended book about JavaScript, programming, and the wonders of the digital world
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) — "why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language" –– truth
+- [Watch and Code](https://watchandcode.com/p/practical-javascript) the Practical JavaScript course builds a strong, well=rounded JS foundation for web development
 
 
 ## Mockups
 * [Graphicburger](http://graphicburger.com/mock-ups/) — [free] — physical product mockups & templates
 * [GraphicRiver](https://graphicriver.net/) — [paid] — any product mockup you could ever think of
 * [Pixeden](http://www.pixeden.com) — [free & paid] — physical product mockups & templates
+
+
+
+## Playgrounds
+- [Glitch](https://glitch.com/) — work with example apps to remix (or build from scratch) with a code editor, plus instant hosting and deployment
+- [Codepen](https://codepen.io/) — popular sharing (and show-off) website for the entire front-end side of the web
+- [JSfiddle](https://jsfiddle.net/) — test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor
 
 
 
@@ -161,7 +188,7 @@ Suggestions, issues, and PRs are welcome 💖
 
 ## Remote work
 
-### Job Boards
+#### Job Boards
 - [WeWorkRemotely](https://www.udacity.com) — highest quality remote job board, in my opinion
 - [CodeAcademy](https://www.codecademy.com) — pulls jobs from top remote websites and ran by [@levelsio](https://twitter.com/levelsio)
 
