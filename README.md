@@ -4,8 +4,6 @@
 
 ⭐️ These lists include many of the resources I have used throughout my coding journey. I still have a lot to update here, so be sure to check back!
 
-👑 Inspired by [@Skullface]'s [designresources.party](http://designresources.party)
-
 Suggestions, issues, and PRs are welcome 💖
 
 ---
@@ -27,6 +25,7 @@ Suggestions, issues, and PRs are welcome 💖
   * [Google Chrome DevTools](#google-chrome-devtools)
 * [Coding challenges](#coding-challenges)
 * [Colors](#colors)
+* [Data](#data)
 * [Fonts](#fonts)
   * [Directories and marketplaces](#directories-and-marketplaces)
 * [Frameworks](#frameworks)
@@ -90,11 +89,11 @@ Suggestions, issues, and PRs are welcome 💖
 
 #### Useful beginner-friendly blogs
 - [Tania Rascia](https://www.taniarascia.com/) — extremely concise and well-written tutorials and snippets
-
+- [Explain Like I'm Five](https://dev.to/t/explainlikeimfive) - So simple a five year old could (pretend to) understand.
 
 
 ## Books and publications
-
+- [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) - Open source ordered list of marketing tactics and ideas for your next side project.
 
 
 ## Browser tools
@@ -112,6 +111,7 @@ Suggestions, issues, and PRs are welcome 💖
 ## Coding challenges
 - [#100daysofcode](http://100daysofcode.com/) — code at minimum an hour every day for the next 100 days and tweet your progress using #100daysofcode
 - [#301daysofcode](http://benjaminspak.com/) - same concept, longer time frame, looser structure
+- [
 
 
 
@@ -122,6 +122,10 @@ Suggestions, issues, and PRs are welcome 💖
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 
+
+## Data
+* [DataCamp](http://clrs.cc/) — really pretty default colors for prototyping
+* [The Pudding](https://pudding.cool/process/how-to-make-dope-shit-part-1/) — Modern and inspiring visual storytelling (or 'scrollytelling') through data visualizations 
 
 
 ## Fonts
