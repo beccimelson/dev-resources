@@ -124,8 +124,9 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## Data
-* [DataCamp](http://clrs.cc/) — really pretty default colors for prototyping
+* [DataCamp](https://www.datacamp.com/) — Best online curriculum for learning all-things data science
 * [The Pudding](https://pudding.cool/process/how-to-make-dope-shit-part-1/) — Modern and inspiring visual storytelling (or 'scrollytelling') through data visualizations 
+* [Kaggle](https://www.kaggle.com/) — Data and machine learning competitions and resources
 
 
 ## Fonts
