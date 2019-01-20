@@ -1,4 +1,4 @@
-# [Development Resources](http://devresources.info)
+# [Resources for Web Developers](http://devresources.info)
 
 👋 Hi, I’m [@beccimelson](http://twitter.com/beccimelson)
 
@@ -57,6 +57,9 @@ Suggestions, issues, and PRs are welcome 💖
 #### Online courses
 - [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
 - [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
+- [DataCamp]
+- [Free Code Camp]
+- [Product School]
 
 #### Requirements and standards
 - [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
@@ -195,7 +198,7 @@ Suggestions, issues, and PRs are welcome 💖
 
 #### Job Boards
 - [WeWorkRemotely](https://www.udacity.com) — highest quality remote job board, in my opinion
-- [CodeAcademy](https://www.codecademy.com) — pulls jobs from top remote websites and ran by [@levelsio](https://twitter.com/levelsio)
+- [RemoteOk](https://www.remote.ok) — pulls jobs from top remote websites and ran by [@levelsio](https://twitter.com/levelsio)
 
 
 
