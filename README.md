@@ -23,6 +23,7 @@ Suggestions, issues, and PRs are welcome 💖
 * [Browser tools](#browser-tools)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
   * [Google Chrome DevTools](#google-chrome-devtools)
+* [CMS](#cms)
 * [Coding challenges](#coding-challenges)
 * [Colors](#colors)
 * [Data](#data)
@@ -30,7 +31,6 @@ Suggestions, issues, and PRs are welcome 💖
   * [Directories and marketplaces](#directories-and-marketplaces)
 * [Frameworks](#frameworks)
 * [Hosting](#hosting)
-* [HTML/CSS](#html-/-css)
 * [Icons and emoji](#icons-and-emoji)
 * [JavaScript](#javascript)
 * [Linux](#linux)
@@ -71,17 +71,18 @@ Suggestions, issues, and PRs are welcome 💖
 - [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
 
 
-
 ## Analytics
 - [Google Analytics](https://analytics.google.com) — the gold standard
-
+- [Tableau](https://www.tableau.com/) - enterprise option. Analyze and visualize your data
 
 
 ## Beginner friendly
 #### Where to start
+- [SuperHi](https://www.superhi.com/) - [free and paid] creative, practical lesson plans across all disciplines, with many free tutorials
+- [Turing](https://turing.io/) - [paid] 7 month courses in full-stack, front-end, back-end. You don't pay until you get a developer job
 - [Udacity](https://www.udacity.com) — [free and paid] explore your options and plan a (loose) curriculum considering job opportunities, salary, etc
-- [CodeAcademy](https://www.codecademy.com) — [free and paid] clear, concise, interactive lessons ranging from JavaScript, to Git, to the Watson API
 - [FreeCodeCamp](https://www.freecodecamp.org/) — [free] an open-source driven community that helps you learn to code through coding challenges and building projects
+- [CodeAcademy](https://www.codecademy.com) — [free and paid] clear, concise, interactive lessons ranging from JavaScript, to Git, to the Watson API
 
 #### Top developer communities
 - [Stack Overflow](https://stackoverflow.com/) — a question and answer site for professional and enthusiast programmers, and part of the Stack Exchange network
@@ -89,71 +90,73 @@ Suggestions, issues, and PRs are welcome 💖
 - [GitHub](https://github.com/blog/2386-contribute-on-open-source-friday) GitHub's latest effort to make it easier to contribute to the open source community
 - [Mozilla Developer Network](https://developer.mozilla.org) — anything you'd ever want to know about the Open Web, ever––Mozilla Docs come in very handy
 - [Product Hunt](https://www.producthunt.com/) — a curation of the best new products and a great way to gain traction when launching a new project
+- [Indie Hackers](https://www.indiehackers.com/) - connect with fellow entrepreneurs, developers, and bootstrappers who are sharing the strategies and revenue numbers behind their companies
+- [Dev.to](https://dev.to/) - community blog feed and newsletter for developers
 
 #### Useful beginner-friendly blogs
 - [Tania Rascia](https://www.taniarascia.com/) — extremely concise and well-written tutorials and snippets
-- [Explain Like I'm Five](https://dev.to/t/explainlikeimfive) - So simple a five year old could (pretend to) understand.
+- [Explain Like I'm Five](https://dev.to/t/explainlikeimfive) - So simple a five year old could (pretend to) understand
 
 
 ## Books and publications
-- [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) - Open source ordered list of marketing tactics and ideas for your next side project.
+- [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/) - Open source ordered list of marketing tactics and ideas for your next side project
 
 
 ## Browser tools
 #### Google Chrome extensions and bookmarklets
-* [Type Sample](http://www.typesample.com/) — identify and sample webfonts — 3 samples for free, or unlimited samples for $5/year subscription. available as a bookmarklet or Chrome extension
-* [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) — inspect a webfont’s name, family, weight, size, style, color, line height, and source (if hosted via Google Fonts or Typekit)
+- [Type Sample](http://www.typesample.com/) — identify and sample webfonts — 3 samples for free, or unlimited samples for $5/year subscription. available as a bookmarklet or Chrome extension
+- [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) — inspect a webfont’s name, family, weight, size, style, color, line height, and source (if hosted via Google Fonts or Typekit)
 
 #### Google Chrome DevTools
-* [Animation timeline & editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) — powerful tools to inspect and modify CSS animations
-* [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) — test responsiveness by using popular viewport sizes or creating your own presets
-* [Network performance](https://developers.google.com/web/tools/chrome-devtools/network-performance/) — analyze resource requests and emulate mobile experiences
+- [Animation timeline & editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) — powerful tools to inspect and modify CSS animations
+- [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) — test responsiveness by using popular viewport sizes or creating your own presets
+- [Network performance](https://developers.google.com/web/tools/chrome-devtools/network-performance/) — analyze resource requests and emulate mobile experiences
 
+
+## CMS
+- [WordPress](https://wordpress.com/) 
 
 
 ## Coding challenges
 - [#100daysofcode](http://100daysofcode.com/) — code at minimum an hour every day for the next 100 days and tweet your progress using #100daysofcode
 - [#301daysofcode](http://benjaminspak.com/) - same concept, longer time frame, looser structure
-- [
 
 
 
-## Colors
-* [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
-* [Coolors](https://coolors.co/app) — interactive color palette generator
-* [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
-* [Paletteable](http://www.palettable.io/) — interactive color palette generator
-* [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
+## Color pickets
+- [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
+- [Coolors](https://coolors.co/app) — interactive color palette generator
+- [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
+- [Paletteable](http://www.palettable.io/) — interactive color palette generator
+- [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 
 
 ## Data
-* [DataCamp](https://www.datacamp.com/) — Best online curriculum for learning all-things data science
-* [The Pudding](https://pudding.cool/process/how-to-make-dope-shit-part-1/) — Modern and inspiring visual storytelling (or 'scrollytelling') through data visualizations 
-* [Kaggle](https://www.kaggle.com/) — Data and machine learning competitions and resources
+- [DataCamp](https://www.datacamp.com/) — Best online curriculum for learning all-things data science
+- [The Pudding](https://pudding.cool/process/how-to-make-dope-shit-part-1/) — Modern and inspiring visual storytelling (or 'scrollytelling') through data visualizations 
+- [Kaggle](https://www.kaggle.com/) — Data and machine learning competitions and resources
 
 
 ## Fonts
 #### Directories and marketplaces
 
-* [Google Fonts](https://fonts.google.com/) — hundreds of free webfonts hosted via Google or self-hosted, downloadable via [GitHub repo](https://github.com/google/fonts) with individual licenses
-* [MyFonts](http://myfonts.com) — thousands of fonts from all kinds of foundries, includes some trial fonts & free families. (good for searching and testing, but it’s better to buy through the foundries themselves!)
-* [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
+- [Google Fonts](https://fonts.google.com/) — hundreds of free webfonts hosted via Google or self-hosted, downloadable via [GitHub repo](https://github.com/google/fonts) with individual licenses
+- [MyFonts](http://myfonts.com) — thousands of fonts from all kinds of foundries, includes some trial fonts & free families. (good for searching and testing, but it’s better to buy through the foundries themselves!)
+- [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
 
 
 
 ## Hosting
-
-
-
-## HTML/CSS
-
+- [GoDaddy](https://www.godaddy.com/)
+- [BlueHost](https://www.bluehost.com/)
+- [DreamHost](https://www.dreamhost.com/)
 
 
 ## Icons and emoji
-* [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
-* [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
-* [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
-* [SymbolSet](https://symbolset.com/) — [paid] — high-quality icon fonts categorized by topic and style
+- [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
+- [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
+- [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
+- [SymbolSet](https://symbolset.com/) — [paid] — high-quality icon fonts categorized by topic and style
 
 
 
@@ -164,9 +167,9 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 ## Mockups
-* [Graphicburger](http://graphicburger.com/mock-ups/) — [free] — physical product mockups & templates
-* [GraphicRiver](https://graphicriver.net/) — [paid] — any product mockup you could ever think of
-* [Pixeden](http://www.pixeden.com) — [free & paid] — physical product mockups & templates
+- [Graphicburger](http://graphicburger.com/mock-ups/) — [free] — physical product mockups & templates
+- [GraphicRiver](https://graphicriver.net/) — [paid] — any product mockup you could ever think of
+- [Pixeden](http://www.pixeden.com) — [free & paid] — physical product mockups & templates
 
 
 
@@ -202,16 +205,16 @@ Suggestions, issues, and PRs are welcome 💖
 
 
 
-## Stock
-* [Death to the Stock Photo](http://deathtothestockphoto.com/) — [free & paid] — new sets emailed weekly, premium plans available for more photos and unlimited access
-* [Unsplash](https://unsplash.com/) — [free] — the first of the hip and gorgeous free with no strings attached stock photo sites
-* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/albums) — [free] — photos of women in color in tech settings since every other stock photo site fails at this hardcore
-* [CreativeMarket](https://creativemarket.com/) — huge marketplace for design assets of varying qualities (including fonts and stock photos), great for when you need to recreate a specific style or work in a particular niche
-* [RetroSupply](https://www.retrosupply.co/) — well-made and well-priced assets that skew toward retro/vintage
-* [YouWorkForThem](https://www.youworkforthem.com/graphics/) — cool textures and imagery from the original online creative marketplace
+## Stock Photography
+- [Death to the Stock Photo](http://deathtothestockphoto.com/) — [free & paid] — new sets emailed weekly, premium plans available for more photos and unlimited access
+- [Unsplash](https://unsplash.com/) — [free] — the first of the hip and gorgeous free with no strings attached stock photo sites
+- [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/albums) — [free] — photos of women in color in tech settings since every other stock photo site fails at this hardcore
+- [CreativeMarket](https://creativemarket.com/) — huge marketplace for design assets of varying qualities (including fonts and stock photos), great for when you need to recreate a specific style or work in a particular niche
+- [RetroSupply](https://www.retrosupply.co/) — well-made and well-priced assets that skew toward retro/vintage
+- [YouWorkForThem](https://www.youworkforthem.com/graphics/) — cool textures and imagery from the original online creative marketplace
 
 
 
 ## User testing
-* [UserTesting](http://usertesting.com) — finds participants for you, runs a usability test, and records and stores videos of real people speaking their thoughts as they use your site/app/prototype/wireframe
-* [UsabilityHub](http://usabilityhub.com) — for quick 5-minute qualitative, navigation-based, or hot-spot based remote tests for static images or a series of images
+- [UserTesting](http://usertesting.com) — finds participants for you, runs a usability test, and records and stores videos of real people speaking their thoughts as they use your site/app/prototype/wireframe
+- [UsabilityHub](http://usabilityhub.com) — for quick 5-minute qualitative, navigation-based, or hot-spot based remote tests for static images or a series of images
