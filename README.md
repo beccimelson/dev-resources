@@ -94,7 +94,7 @@ Suggestions, issues, and PRs are welcome 💖
 - [Dev.to](https://dev.to/) - community blog feed and newsletter for developers
 
 #### Useful beginner-friendly blogs
-- [Tania Rascia](https://www.taniarascia.com/) — extremely concise and well-written tutorials and snippets
+- [Tania Rascia](https://www.taniarascia.com/) — concise and well-written tutorials and snippets
 - [Explain Like I'm Five](https://dev.to/t/explainlikeimfive) - So simple a five year old could (pretend to) understand
 
 
